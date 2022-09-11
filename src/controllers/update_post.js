@@ -1,4 +1,4 @@
-const model_update=require("../model/postes");
+const model_update=require("../models/postes");
 
 module.exports=async(req,res)=>{
     const {dataCard,type}=req.body;

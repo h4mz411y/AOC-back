@@ -1,4 +1,4 @@
-const  postes_Model=require("../model/postes");
+const  postes_Model=require("../models/postes");
 
 module.exports=async(req,res)=>{
 
